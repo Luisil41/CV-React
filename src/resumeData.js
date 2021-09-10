@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Junior Developer",
     "linkedinId":"luis-isarria",
     "skypeid": "luis.isarria",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am constantly learning new technologies and developing new projects or simply travelling and practising sports in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,39 +17,39 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently developing new project and learning new technologies. I have full availability to join a team or a project.",
     "address":"Spain",
-    "website":"https://rbhatia46.github.io",
+    "website":"http://github.com/Luisil41",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Bootcamp Full Stack Developer ",
+        "specialization":"Full Stack Developer",
+        "MonthOfPassing":"September",
+        "YearOfPassing":"2021",
+        "Achievements":"Technologies used: Html, Css, Javascript,Angular 12, React, NodeJs, MongoDB, MySQL & PHP."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"CSHG",
+        "specialization":"High Diploma in Hospitality Management",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2014",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Melia Hotels International",
+        "specialization":"Hotel Manager",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2021",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"The Landmark London",
+        "specialization":"Night Manager",
+        "MonthOfLeaving":"August",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "skillsDescription":"Your skills here",
